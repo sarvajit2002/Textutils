@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sarvajit2002/textutils.git/static/css/main.c24fdd2c.css",
-    "main.js": "/sarvajit2002/textutils.git/static/js/main.e1a500b2.js",
-    "static/js/787.28cb0dcd.chunk.js": "/sarvajit2002/textutils.git/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/sarvajit2002/textutils.git/index.html",
-    "main.c24fdd2c.css.map": "/sarvajit2002/textutils.git/static/css/main.c24fdd2c.css.map",
-    "main.e1a500b2.js.map": "/sarvajit2002/textutils.git/static/js/main.e1a500b2.js.map",
-    "787.28cb0dcd.chunk.js.map": "/sarvajit2002/textutils.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/textutils/static/css/main.c24fdd2c.css",
+    "main.js": "/textutils/static/js/main.1b47c064.js",
+    "static/js/787.28cb0dcd.chunk.js": "/textutils/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/textutils/index.html",
+    "main.c24fdd2c.css.map": "/textutils/static/css/main.c24fdd2c.css.map",
+    "main.1b47c064.js.map": "/textutils/static/js/main.1b47c064.js.map",
+    "787.28cb0dcd.chunk.js.map": "/textutils/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c24fdd2c.css",
-    "static/js/main.e1a500b2.js"
+    "static/js/main.1b47c064.js"
   ]
 }
